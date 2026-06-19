@@ -1,93 +1,80 @@
-# 👋 Hi, I'm Joaquim (Joca)
+# Joaquim Jonkel (Joca)
 
-I'm a developer focused on building **intelligent systems that solve real-world problems**, especially using **Artificial Intelligence, Computer Vision, and Machine Learning**.
+AI/ML Engineer in progress — building systems that work in the real world,
+not just in notebooks.
 
-What drives me is not just coding — it's understanding how technology can create **practical impact**, from improving safety to optimizing real-world processes.
-
----
-
-## 🚀 What I’m currently focused on
-
-* Machine Learning & Deep Learning
-* Computer Vision (MediaPipe, CNNs, real-time systems)
-* Large Language Models (LLMs & NLP applications)
-* AI + Hardware integration (Arduino, real-world signals)
+Based in São Paulo 🇧🇷 | Final semester, Robotics Engineering @ FEI
 
 ---
 
-## 🧩 Projects I'm proud of
+## What I build
 
-Here are some things I’ve built:
-
-* 💤 **Sleep Detection System**
-  Real-time eye tracking with MediaPipe + Arduino integration for alert systems
-
-* 🌱 **Cotton Pest Classification (CNN)**
-  Deep Learning model for agricultural disease detection with focus on generalization
-
-* 📄 **ATS Resume Optimizer (LLM-based)**
-  Intelligent system for resume analysis, scoring, and rewriting based on job descriptions
+Systems that take data and return decisions. My focus is on Computer Vision,
+LLM applications, and the full pipeline from raw data to deployed model.
 
 ---
 
-## 🛠️ Tech Stack
+## Selected Projects
 
-**Languages**
+**Sleep Detection System** · [repo ↗](https://github.com/JoaquimJmmJr/Sleep-Detection-System)
 
-* Python (main)
-* C / C++
-* HTML / CSS
+Real-time drowsiness detection using MediaPipe facial landmarks + Arduino
+hardware integration for alert triggering. Processes live video at 30fps.
 
-**AI & Data**
+`Python` · `MediaPipe` · `OpenCV` · `Arduino` · `Real-time inference`
 
-* TensorFlow / Keras
-* OpenCV
-* MediaPipe
-* NumPy
+**Cotton Pest Classification using CNN** · [repo ↗](https://github.com/JoaquimJmmJr/Cotton-Pest-Classification-using-CNN)
 
-**Other**
+Deep Learning classifier for agricultural disease detection.
+Trained on imbalanced field data with augmentation strategy
+to improve generalization across lighting conditions.
 
-* Git & GitHub
-* Arduino (hardware integration)
+`Python` · `TensorFlow` · `Keras` · `CNN` · `Transfer Learning`
 
----
+**ATS Resume Optimizer** · [repo ↗](https://github.com/JoaquimJmmJr/Resume-Optimizer-LLM-Based.py)
 
-## 🎯 What I’m looking for
+LLM-based pipeline that parses job descriptions, scores resume sections,
+and generates targeted rewrites. Built with prompt chaining and structured output.
 
-I'm looking for opportunities where I can:
+`Python` · `LangChain` · `OpenAI` · `GoogleAI` · `GroqAI` · `NLP` · `Streamlit`
 
-* Apply AI to real-world problems
-* Work on challenging and meaningful projects
-* Grow as a Machine Learning / AI Engineer
+**Financial RAG Agent** · [repo ↗](https://github.com/JoaquimJmmJr/financial-RAG-agent)
 
-I'm especially interested in projects involving:
+RAG pipeline that answers investment questions by retrieving semantically relevant chunks from a personalized knowledge base via FAISS vector search. Built with OpenAI embeddings, LangChain LCEL, conversational history, and automatic source attribution.
 
-* Computer Vision
-* Intelligent systems
-* Automation and real-world impact
+`Python` · `LangChain` · `OpenAI` · `RAG` · `FAISS` · `Streamlit`
 
----
+**Data-science-and-analysis** · [repo ↗](https://github.com/JoaquimJmmJr/Data-science-and-analysis)
 
-## 📫 Contact
+End-to-end data analysis projects covering the full analytical cycle, from raw data to actionable insights.
+Projects include: exploratory data analysis (missing values, duplicates, outliers), descriptive analysis for decision-making, ETL pipelines with normalization and imputation techniques, and a full CRISP-DM adapted application on a FAO/FAOSTAT global dataset — covering problem definition, data acquisition, preparation, descriptive modeling, and result evaluation.
 
-* 💼 LinkedIn:
-  https://www.linkedin.com/in/joaquim-jonkel-magalh%C3%A3es-melo-junior/
-
-* 📧 Email:
-  [joaquim.jonkel@gmail.com](mailto:joaquim.jonkel@gmail.com)
+`Excel (ETL)` · `Power BI (interactive dashboards · DAX)`
 
 ---
 
-## ⚡ A bit more about me
+## Stack
 
-* I’m driven by challenges that force me to learn fast
-* I enjoy turning ideas into working systems
-* I believe consistency beats talent in the long run
+**Core:** Python · Git  
+**ML/AI:** TensorFlow · Keras · scikit-learn · OpenCV · MediaPipe · LangChain · pandas · NumPy  
+**Data:** Power BI (DAX) · ETL pipelines  
+**Infrastructure:** *(AWS — in progress)*  
 
-And yes… I still haven’t surfed — but diving with sharks is definitely on the list 🦈
+---
 
+## Currently learning
 
-<!---
-JoaquimJmmJr/JoaquimJmmJr is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+SQL · FastAPI · MLOps · Docker · AWS (Cloud Practitioner → AI Practitioner → SageMaker)
+
+---
+
+## Contact
+
+[LinkedIn](https://www.linkedin.com/in/joaquim-jonkel-magalhães-melo-junior/) ·
+[joaquim.jonkel@gmail.com](mailto:joaquim.jonkel@gmail.com)
+
+---
+
+*"Effort and dedication on everything."*
+
+*Haven't surfed yet — but I did put diving with sharks on the list 🦈*
