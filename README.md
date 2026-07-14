@@ -31,18 +31,18 @@ to improve generalization across lighting conditions.
 
 `Python` · `TensorFlow` · `Keras` · `CNN` · `Transfer Learning`
 
-**ATS Resume Optimizer** · [repo ↗](https://github.com/JoaquimJmmJr/Resume-Optimizer-LLM-Based.py)
+**ATS Resume Optimizer** · [repo ↗](https://github.com/JoaquimJmmJr/Resume-Optimizer-LLM-Based)
 
 LLM-based pipeline that parses job descriptions, scores resume sections,
 and generates targeted rewrites. Built with prompt chaining and structured output.
 
-`Python` · `LangChain` · `OpenAI` · `GoogleAI` · `GroqAI` · `NLP` · `Streamlit`
+`Python` · `LangChain` · `OpenAI` · `Gemini` · `GroqAI` · `NLP` · `Streamlit`
 
 **Financial RAG Agent** · [repo ↗](https://github.com/JoaquimJmmJr/financial-RAG-agent)
 
-RAG pipeline that answers investment questions by retrieving semantically relevant chunks from a personalized knowledge base via FAISS vector search. Built with OpenAI embeddings, LangChain LCEL, conversational history, and automatic source attribution.
+RAG pipeline that answers investment questions via semantic retrieval over a personalized knowledge base, with automatic source citation and conversation history. Exposed both as a Streamlit app and a REST API (FastAPI), deployed in production on Render.
 
-`Python` · `LangChain` · `OpenAI` · `RAG` · `FAISS` · `Streamlit`
+`Python` · `LangChain` · `OpenAI` · `RAG` · `Pinecone` · `FastAPI`· `Streamlit`
 
 **Data-science-and-analysis** · [repo ↗](https://github.com/JoaquimJmmJr/Data-science-and-analysis)
 
@@ -56,7 +56,8 @@ Projects include: exploratory data analysis (missing values, duplicates, outlier
 ## Stack
 
 **Core:** Python · Git  
-**ML/AI:** TensorFlow · Keras · scikit-learn · OpenCV · MediaPipe · LangChain · pandas · NumPy  
+**ML/AI:** TensorFlow · Keras · scikit-learn · OpenCV · MediaPipe · LangChain · pandas · NumPy 
+**Backend:** FastAPI
 **Data:** Power BI (DAX) · ETL pipelines  
 **Infrastructure:** *(AWS — in progress)*  
 
@@ -64,7 +65,7 @@ Projects include: exploratory data analysis (missing values, duplicates, outlier
 
 ## Currently learning
 
-SQL · FastAPI · MLOps · Docker · AWS (Cloud Practitioner → AI Practitioner → SageMaker)
+SQL · MLOps · Docker · AWS (Cloud Practitioner → AI Practitioner → SageMaker)
 
 ---
 
